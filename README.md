@@ -12,10 +12,12 @@ telas criadas com ReactJS e API laravel.
 - [Laravel]
 - [Visual Studio]
 
-## Layout mobile
+## Layout no navegador
 
 
 <img src="https://github.com/user-attachments/assets/77320a76-d25e-49e1-ba26-4c4cedd63e0e" alt="drawing" width="800"/>
+<img src="https://github.com/user-attachments/assets/2bfa9ea6-9de3-4988-b42b-de88ee70eae5" alt="drawing" width="800"/>
+
 
 
 
